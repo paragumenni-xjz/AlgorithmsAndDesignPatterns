@@ -1,13 +1,8 @@
 package com.xjz.leetcode.day01;
 
-import com.xjz.leetcode.pojo.Student;
-import com.xjz.leetcode.pojo.User;
-import org.apache.commons.lang3.ObjectUtils;
-
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.function.Function;
 
 public class Solution {
     public static void main(String[] args) {
